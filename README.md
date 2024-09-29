@@ -1,4 +1,4 @@
-This project is a simple, test-oriented DNS server. It listens on UDP port 53 and handles basic DNS queries.
+This project is a simple test DNS server. It listens on UDP port 53 and handles basic DNS queries.
 
 > **Note**: This repository is strictly for testing and educational purposes.
 > It uses a highly simplified engine and is not designed for production environments.
