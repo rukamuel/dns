@@ -76,3 +76,7 @@ In this test, the DNS server successfully received a query for the domain exampl
 # Limitations
 No production-grade optimization: The DNS server is not optimized for high availability or large-scale deployments.
 Basic query handling: Only basic query types (e.g., A records) are supported. Complex DNS records (e.g., MX, CNAME, etc.) are not yet implemented.
+
+# License
+This project is licensed under the [MIT](https://opensource.org/license/mit) License.
+For more details, see the [LICENSE](/LICENSE) file.
